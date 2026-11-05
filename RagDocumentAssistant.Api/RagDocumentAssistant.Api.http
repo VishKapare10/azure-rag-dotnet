@@ -1,0 +1,6 @@
+@RagDocumentAssistant.Api_HostAddress = http://localhost:5193
+
+GET {{RagDocumentAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

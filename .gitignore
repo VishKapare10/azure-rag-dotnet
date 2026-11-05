@@ -1,0 +1,39 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# IDE
+.idea/
+
+# Secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# .NET build output
+bin/
+obj/
+.vs/
+
+# Secrets
+.env
+.env.*
+appsettings.Development.json
+
+# IDE
+*.user
+*.suo
+
+**/appsettings.Development.json
+**/appsettings.Local.json
+RagDocumentAssistant.Api/appsettings.json

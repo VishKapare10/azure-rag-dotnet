@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\RagDocumentAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\controllers\\embeddingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\controllers\\embeddingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\iembeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\services\\embeddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\services\\textchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\services\\textchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\itextchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\itextchunkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\services\\pdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\services\\pdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\ipdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\ipdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\ivectorsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\ivectorsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\interfaces\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\dtos\\documentuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\dtos\\documentuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\dtos\\chatresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\dtos\\chatrequest..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\dtos\\chatrequest..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|c:\\code\\ragdocumentassistant\\ragdocumentassistant.api\\models\\document..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD7AD29-0CD9-92F4-CEF2-C93E8F1BDFC9}|RagDocumentAssistant.Api\\RagDocumentAssistant.Api.csproj|solutionrelative:ragdocumentassistant.api\\models\\document..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmbeddingController.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Controllers\\EmbeddingController.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Controllers\\EmbeddingController.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Controllers\\EmbeddingController.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Controllers\\EmbeddingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:48:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\appsettings.json",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\appsettings.json",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-03T12:41:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Program.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Program.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:38:31.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentChunk.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Models\\DocumentChunk.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Models\\DocumentChunk.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Models\\DocumentChunk.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Models\\DocumentChunk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:29:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Controllers\\DocumentsController.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Controllers\\DocumentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:38:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmbeddingService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\EmbeddingService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Services\\EmbeddingService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\EmbeddingService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Services\\EmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:47:48.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextChunkingService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\TextChunkingService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Services\\TextChunkingService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\TextChunkingService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Services\\TextChunkingService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:12:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmbeddingService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IEmbeddingService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\IEmbeddingService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IEmbeddingService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\IEmbeddingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:34:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITextChunkingService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\ITextChunkingService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\ITextChunkingService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\ITextChunkingService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\ITextChunkingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:12:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IChatService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\IChatService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IChatService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:34:46.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PdfTextExtractor.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\PdfTextExtractor.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Services\\PdfTextExtractor.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\PdfTextExtractor.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Services\\PdfTextExtractor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:58:52.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPdfTextExtractor.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IPdfTextExtractor.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\IPdfTextExtractor.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IPdfTextExtractor.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\IPdfTextExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:58:31.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Services\\DocumentService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:37:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVectorSearchService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IVectorSearchService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\IVectorSearchService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IVectorSearchService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\IVectorSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:34:30.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Interfaces\\IDocumentService.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Interfaces\\IDocumentService.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Interfaces\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:33:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentUploadRequest.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\DocumentUploadRequest.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\DTOs\\DocumentUploadRequest.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\DocumentUploadRequest.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\DTOs\\DocumentUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:33:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatResponse.cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\ChatResponse.cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\DTOs\\ChatResponse.cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\ChatResponse.cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\DTOs\\ChatResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:32:44.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatRequest..cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\ChatRequest..cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\DTOs\\ChatRequest..cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\DTOs\\ChatRequest..cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\DTOs\\ChatRequest..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:32:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Document..cs",
+              "DocumentMoniker": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Models\\Document..cs",
+              "RelativeDocumentMoniker": "RagDocumentAssistant.Api\\Models\\Document..cs",
+              "ToolTip": "C:\\Code\\RagDocumentAssistant\\RagDocumentAssistant.Api\\Models\\Document..cs",
+              "RelativeToolTip": "RagDocumentAssistant.Api\\Models\\Document..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:29:30.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
